@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aifeijeich.news-coder.com/sitemap.xml
